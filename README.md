@@ -1,7 +1,7 @@
 
 ## 👋 Hello!
 
-My name is **Narendra Singh Khinchi**, and I'm a **Software Developer Engineer** at Medorn Ventures. I have a strong background in full-stack development 💻, specializing in JavaScript technologies like **ReactJS**, **NodeJS**, and **React Native**. I excel in building scalable web and mobile applications 📱, optimizing database performance 📊, and implementing CI/CD pipelines 🚀.
+My name is **Narendra Singh Khinchi**, and I'm a **Software Engineer** at Medorn Ventures. I have a strong background in full-stack development 💻, specializing in JavaScript technologies like **ReactJS**, **NodeJS**, and **React Native**. I excel in building scalable web and mobile applications 📱, optimizing database performance 📊, and implementing CI/CD pipelines 🚀.
 
 ### What I Do:
 - **Full-Stack Development:** Expertise in JavaScript technologies, developing robust and scalable web and mobile applications.
