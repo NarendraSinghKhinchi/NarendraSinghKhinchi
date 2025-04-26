@@ -26,14 +26,17 @@ Software Engineer at **Dzynkraft AI** with a strong foundation in full-stack dev
   <table>
     <tr>
       <td align="center">
-        <img src="/api/placeholder/64/64" height="64" width="64" alt="Dzynkraft AI Logo"/>
+        <img src="https://www.showmyflat.com/ShowMyFlat_Logo.png" height="60" width="200" alt="Dzynkraft AI Logo"/>
         <br /><strong>Dzynkraft AI</strong>
         <br />Software Engineer
         <br /><i>Sep 2024 - Present</i>
       </td>
       <td align="center">
-        <img src="/api/placeholder/64/64" height="64" width="64" alt="Medorn Ventures Logo"/>
-        <br /><strong>Medorn Ventures</strong>
+        <img src="https://medorn.com/images/medorn-logo.png" height="64" width="80" alt="Medorn Ventures Logo"/>
+        <br />
+        <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
+          <strong>Medorn Ventures Private Limited</strong>
+        </a>
         <br />Software Engineer
         <br /><i>Aug 2023 - Aug 2024</i>
       </td>
@@ -44,7 +47,7 @@ Software Engineer at **Dzynkraft AI** with a strong foundation in full-stack dev
 ## 🛠️ Technical Arsenal
 
 ### Languages & Frameworks
-<p align="center">
+<p align="center" margin="2px">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
