@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-Software Engineer at **Dzynkraft AI** with a strong foundation in full-stack development specializing in JavaScript ecosystems. I'm passionate about building scalable, efficient systems that solve real-world problems.
+Software Engineer at **Stealth AI** with a strong foundation in full-stack development specializing in JavaScript ecosystems. I'm passionate about building scalable, efficient systems that solve real-world problems.
 
 - 🔭 Currently working on **serverless architectures** using AWS
 - 🌱 Always learning more about **cloud optimization** and **system design**
@@ -26,8 +26,7 @@ Software Engineer at **Dzynkraft AI** with a strong foundation in full-stack dev
   <table>
     <tr>
       <td align="center">
-        <img src="https://www.showmyflat.com/ShowMyFlat_Logo.png" height="60" width="200" alt="Dzynkraft AI Logo"/>
-        <br /><strong>Dzynkraft AI</strong>
+        <br /><strong>Stealth AI</strong>
         <br />Software Engineer
         <br /><i>Sep 2024 - Present</i>
       </td>
