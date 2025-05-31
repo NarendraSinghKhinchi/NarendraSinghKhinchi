@@ -150,6 +150,8 @@ Software Engineer at **Stealth AI** with a strong foundation in full-stack devel
           <p><strong>Tech Stack:</strong> React, YouTube API, Tailwind CSS</p>
         </div>
       </td>
+      </tr>
+        <tr>
             <td width="50%">
         <h3 align="center">My Portfolio</h3>
         <div align="center">
