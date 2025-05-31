@@ -150,6 +150,24 @@ Software Engineer at **Stealth AI** with a strong foundation in full-stack devel
           <p><strong>Tech Stack:</strong> React, YouTube API, Tailwind CSS</p>
         </div>
       </td>
+            <td width="50%">
+        <h3 align="center">My Portfolio</h3>
+        <div align="center">
+          <img src="/api/placeholder/400/200" width="400px" alt="Fitness Club Project Screenshot"/>
+          <p>
+            My Portfolio Website.
+          </p>
+          <p>
+            <a href="https://narendra-singh-khinchi.onrender.com">
+              <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Demo"/>
+            </a>
+            <a href="https://narendra-singh-khinchi.onrender.com">
+              <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+            </a>
+          </p>
+          <p><strong>Tech Stack:</strong>React</p>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
