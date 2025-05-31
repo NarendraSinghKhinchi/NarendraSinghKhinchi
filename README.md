@@ -165,7 +165,7 @@ Software Engineer at **Stealth AI** with a strong foundation in full-stack devel
 
 **B.Tech - Electronics and Communication**  
 Technocrats Institute of Technology (2020-2024)  
-CGPA: 7.9
+CGPA: 8.3
 
 ---
 
