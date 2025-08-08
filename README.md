@@ -333,7 +333,7 @@ I'm always open to discussing new opportunities, innovative projects, or sharing
 ---
 
 <div align="center">
-  <i>⭐ "Building scalable solutions that make a difference, one line of code at a time." ⭐</i>
+  <i>⭐ "Breaking things, fixing them, and calling it innovation." ⭐</i>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=NarendraSinghKhinchi&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
