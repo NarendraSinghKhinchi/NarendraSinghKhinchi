@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-Software Engineer at **Stealth AI** with expertise in full-stack development and cloud architecture. I specialize in building scalable serverless applications using modern JavaScript ecosystems and AWS services. Passionate about creating efficient, high-performance solutions that solve real-world problems.
+Software Engineer at **Dzynkraft AI** with expertise in full-stack development and cloud architecture. I specialize in building scalable serverless applications using modern JavaScript ecosystems and AWS services. Passionate about creating efficient, high-performance solutions that solve real-world problems.
 
 - 🔭 Currently working on **serverless architectures** and **AI-powered applications**
 - 🌱 Always learning more about **cloud optimization**, **system design**, and **AI integration**
@@ -28,7 +28,7 @@ Software Engineer at **Stealth AI** with expertise in full-stack development and
   <table>
     <tr>
       <td align="center">
-        <br /><strong>Stealth AI</strong>
+        <br /><strong>Dzynkraft AI</strong>
         <br />Software Engineer
         <br /><i>Sep 2024 - Present</i>
         <br />Hyderabad, Telangana
@@ -289,7 +289,7 @@ Software Engineer at **Stealth AI** with expertise in full-stack development and
 
 ## 💼 Professional Experience Highlights
 
-### 🔥 Stealth AI - Software Engineer (Sep 2024 - Present)
+### 🔥 Dzynkraft AI - Software Engineer (Sep 2024 - Present)
 - Architected and deployed **serverless backend** using AWS SAM, Lambda, DynamoDB, and API Gateway
 - Built core features including **User Shortlists**, **personalized property recommendations**, and **secure authentication**
 - Integrated **Redis caching** for 60% performance improvement
