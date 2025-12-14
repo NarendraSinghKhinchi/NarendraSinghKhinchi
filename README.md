@@ -28,6 +28,7 @@ Software Engineer at **Dzynkraft AI** with expertise in full-stack development a
   <table>
     <tr>
       <td align="center">
+         <img src="https://static.wixstatic.com/media/eee5ca_f98f6e1d404a477b8fb97ab7e020e3a3~mv2.png/v1/fill/w_462,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DzynKraft_Logo_Gold_All_D_Icon_1_edited_.png" height="64" width="80" alt="Dzynkraft Logo"/>
         <br /><strong>Dzynkraft AI</strong>
         <br />Software Engineer
         <br /><i>Sep 2024 - Present</i>
